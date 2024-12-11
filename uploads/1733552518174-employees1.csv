@@ -1,0 +1,3 @@
+firstName,lastName,dateOfBirth,email,username,accountId,bankName,ifscCode,salary,role
+vishal,kumar,02-02-2002,aniketshetty205@gmail.com,vishal@123,f8d30b1c-60ab-4ec6-a272-723e8812f47d,Bank Of Baroda,BOB0022,20000,data scientist
+rohit ,sharma,04-06-1987,aniketshetty205@gmail.com,rohit@123,eaace3e3-d625-4638-b8ac-649209ea9426,State Bank Of India,SBI876,45000,backen developer
